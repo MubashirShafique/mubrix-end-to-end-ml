@@ -1,0 +1,8 @@
+model_building:
+  test_size: 0.30
+  n_estimators: 600
+  learning_rate: 0.06
+  max_depth: 9
+
+model_evaluation:
+  n_splits: 6
