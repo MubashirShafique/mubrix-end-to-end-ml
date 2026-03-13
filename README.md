@@ -23,7 +23,7 @@
 ---
 
 ## Repository Structure
-- **📂 1_Data:** Contains raw and processed datasets used throughout the lifecycle.
+- **📂 1_Data:** Contains raw data.
 - **📂 2_Python_EDA:** Detailed Jupyter notebooks for exploratory data analysis and initial experiments.
 - **📂 4_model_comparison:** Performance metrics and comparative analysis of different ML architectures.
 - **📂 5_Full_Project_Draft_DVC:** The Core Pipeline. Contains the dvc.yaml file to automate the entire workflow from data to model.
