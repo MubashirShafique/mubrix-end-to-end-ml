@@ -6,7 +6,7 @@
 
 ## App Showcase
 
-| **App Entry** | **AI Overview** | **Real-time Prediction** | **Trend Forecasting** |
+| **App Entry** | **Welcome / Intro** | **Real-time Prediction** | **Trend Forecasting** |
 | :---: | :---: | :---: | :---: |
 | <img src="9_Android_App_ScreenShots/11_.png" width="300"> | <img src="9_Android_App_ScreenShots/12_.png" width="300"> | <img src="9_Android_App_ScreenShots/13_.png" width="300"> | <img src="9_Android_App_ScreenShots/14_.png" width="300"> |
 
