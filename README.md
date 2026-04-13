@@ -6,7 +6,7 @@
 
 ## App Showcase
 
-| **App Entry** | **Welcome / Intro** | **Real-time Prediction** | **Trend Forecasting** |
+| App Launcher | Welcome / Intro | Prediction Input | Prediction Result
 | :---: | :---: | :---: | :---: |
 | <img src="9_Android_App_ScreenShots/11_.png" width="300"> | <img src="9_Android_App_ScreenShots/12_.png" width="300"> | <img src="9_Android_App_ScreenShots/13_.png" width="300"> | <img src="9_Android_App_ScreenShots/14_.png" width="300"> |
 
@@ -15,7 +15,7 @@
 ---
 
 
-| News Details | Asset Selection | Trend Forecasting |
+| News Feed | Asset Selection | Prediction Result
 | :---: | :---: | :---: |
 | <img src="9_Android_App_ScreenShots/15_.png" width="300"> | <img src="9_Android_App_ScreenShots/16_.png" width="300"> | <img src="9_Android_App_ScreenShots/17_.png" width="300"> |
 
