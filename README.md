@@ -4,6 +4,23 @@
 
 ---
 
+## App Showcase
+
+| **App Entry** | **AI Overview** | **Real-time Prediction** | **Trend Forecasting** |
+| :---: | :---: | :---: | :---: |
+| <img src="9_Android_App_ScreenShots/11_.png" width="300"> | <img src="9_Android_App_ScreenShots/12_.png" width="300"> | <img src="9_Android_App_ScreenShots/13_.png" width="300"> | <img src="9_Android_App_ScreenShots/14_.png" width="300"> |
+
+---
+
+---
+
+
+| News Details | Asset Selection | Trend Forecasting |
+| :---: | :---: | :---: |
+| <img src="9_Android_App_ScreenShots/15_.png" width="300"> | <img src="9_Android_App_ScreenShots/16_.png" width="300"> | <img src="9_Android_App_ScreenShots/17_.png" width="300"> |
+
+---
+
 ## Key Features
 - Trend Prediction: Instant UP/DOWN signals for 6 major assets using optimized ML models.
 - Confidence Scoring: Provides a probability-based confidence score for every prediction.
