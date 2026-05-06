@@ -1,4 +1,4 @@
-# Mubrix: Your AI-Powered Market Compass (End-to-End Project) 
+# Mubrix: Your AI-Powered Market Compass (End to End Project) 
 
 **Mubrix** is an end-to-end decision-making engine designed to bridge the gap between complex market data and actionable trading insights. By leveraging machine learning, Mubrix provides trend predictions for 6 major assets (including Gold, Silver, and Bitcoin), helping traders navigate volatility with confidence and also Andriod App.
 
